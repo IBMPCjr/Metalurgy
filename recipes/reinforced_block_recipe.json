@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "vpmm:reinforced_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vpmm:reinforced_block",
+        "count": 1
+    }
+}

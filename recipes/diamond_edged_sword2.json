@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DID",
+        "DID",
+        " S "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+        "D":
+        {
+            "item": "vpmm:diamond_dust"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vpmm:diamond_edged_stone_sword",
+        "count": 1
+    }
+}

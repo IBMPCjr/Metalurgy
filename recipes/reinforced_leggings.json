@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "vpmm:reinforced_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vpmm:reinforced_leggings",
+        "count": 1
+    }
+}

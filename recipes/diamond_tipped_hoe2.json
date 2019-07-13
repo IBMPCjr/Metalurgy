@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DII",
+        "  S",
+        "  S"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+        "D":
+        {
+            "item": "vpmm:diamond_dust"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vpmm:diamond_tipped_stone_hoe",
+        "count": 1
+    }
+}

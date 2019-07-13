@@ -1,0 +1,50 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DII",
+        "  S",
+        "  S"
+    ],
+    
+    "key":
+    {
+        "I":[
+        {
+            "item": "minecraft:planks",
+            "data": 0
+        },
+        {
+            "item": "minecraft:planks",
+            "data": 1
+        },
+        {
+            "item": "minecraft:planks",
+            "data": 2
+        },
+        {
+            "item": "minecraft:planks",
+            "data": 3
+        },
+        {
+            "item": "minecraft:planks",
+            "data": 4
+        }
+        ],
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+        "D":
+        {
+            "item": "vpmm:diamond_dust"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vpmm:diamond_tipped_wood_hoe",
+        "count": 1
+    }
+}
