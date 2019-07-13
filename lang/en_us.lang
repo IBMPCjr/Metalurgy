@@ -1,0 +1,54 @@
+item.armored_elytra.name=Armored Elytra
+item.reinforced_ingot.name=Reinforced Ingot
+item.raw_reinforced_ingot.name=Raw Reinforced Ingot
+item.diamond_dust.name=Diamond Dust
+item.titanium_ingot.name=Titanium Ingot
+
+item.reinforced_axe.name=Reinforced Axe
+item.reinforced_pickaxe.name=Reinforced Pickaxe
+item.reinforced_sword.name=Reinforced Sword
+item.reinforced_shovel.name=Reinforced Shovel
+item.reinforced_hoe.name=Reinforced Hoe
+item.diamond_tipped_stone_axe.name=Diamond Tipped Stone Axe
+item.diamond_tipped_stone_pickaxe.name=Diamond Tipped Stone Pickxe
+item.diamond_edged_stone_sword.name=Diamond Edged Stone Sword
+item.diamond_tipped_stone_shovel.name=Diamond Tipped Stone Shovel
+item.diamond_tipped_stone_hoe.name=Diamond Tipped Stone Hoe
+item.diamond_tipped_wood_axe.name=Diamond Tipped Wood Axe
+item.diamond_tipped_wood_pickaxe.name=Diamond Tipped Wood Pickaxe
+item.diamond_edged_wood_sword.name=Diamond Edged Wood Sword
+item.diamond_tipped_wood_shovel.name=Diamond Tipped Wood Shovel
+item.diamond_tipped_wood_hoe.name=Diamond Tipped Wood Hoe
+item.diamond_tipped_iron_axe.name=Diamond Tipped Iron Axe
+item.diamond_tipped_iron_pickaxe.name=Diamond Tipped Iron Pickaxe
+item.diamond_edged_iron_sword.name=Diamond Edged Iron Sword
+item.diamond_tipped_iron_shovel.name=Diamond Tipped Iron Shovel
+item.diamond_tipped_iron_hoe.name=Diamond Tipped Iron Hoe
+item.diamond_tipped_gold_axe.name=Diamond Tipped Gold Axe
+item.diamond_tipped_gold_pickaxe.name=Diamond Tipped Gold Pickaxe
+item.diamond_edged_gold_sword.name=Diamond Edged Gold Sword
+item.diamond_tipped_gold_shovel.name=Diamond Tipped Gold Shovel
+item.diamond_tipped_gold_hoe.name=Diamond Tipped Gold Hoe
+item.titanium_axe.name=Titanium Axe
+item.titanium_pickaxe.name=Titanium Pickaxe
+item.titanium_sword.name=Titanium Sword
+item.titanium_shovel.name=Titanium Shovel
+item.titanium_hoe.name=Titanium Hoe
+
+item.reinforced_helmet.name=Reinforced Helmet
+item.reinforced_chestplate.name=Reinforced Chestplate
+item.reinforced_leggings.name=Reinforced Leggings
+item.reinforced_boots.name=Reinforced Boots
+item.titanium_helmet.name=Titanium Helmet
+item.titanium_chestplate.name=Titanium Chestplate
+item.titanium_leggings.name=Titanium Leggings
+item.titanium_boots.name=Titanium Boots
+
+tile.reinforced_block.name=Reinforced Block
+tile.titanium_ore.name=Titanium Ore
+tile.ball_mill_off.name=Ball Mill
+tile.ball_mill_on.name=Lit Ball Mill
+
+container.ball_mill=Ball Mill
+
+itemGroup.vpmm=Metalurgy Mod

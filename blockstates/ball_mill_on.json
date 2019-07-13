@@ -1,0 +1,9 @@
+
+{
+    "variants": {
+        "facing=north": { "model": "vpmm:ball_mill_on" },
+        "facing=south": { "model": "vpmm:ball_mill_on", "y": 180 },
+        "facing=west":  { "model": "vpmm:ball_mill_on", "y": 270 },
+        "facing=east":  { "model": "vpmm:ball_mill_on", "y": 90 }
+    }
+}

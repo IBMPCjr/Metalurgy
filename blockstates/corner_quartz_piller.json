@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "vpmm:corner_quartz_piller" },
+        "axis=z":   { "model": "vpmm:corner_quartz_piller", "x": 90 },
+        "axis=x":   { "model": "vpmm:corner_quartz_piller", "x": 90, "y": 90 }//,
+        //"normal": { "model": "vpmm:corner_quartz_piller"}
+    }
+}

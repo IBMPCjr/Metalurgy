@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "vpmm:reinforced_block"}
+    }
+}

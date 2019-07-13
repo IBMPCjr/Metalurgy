@@ -1,0 +1,11 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "up": "minecraft:blocks/quartz_block_lines_top",
+        "north": "vpmm:blocks/corner_quartz_piller",
+        "east": "minecraft:blocks/quartz_block_lines",
+        "south": "vpmm:blocks/corner_quartz_piller",
+        "west": "minecraft:blocks/quartz_block_lines_top",
+        "down": "minecraft:blocks/quartz_block_lines"
+    }
+}

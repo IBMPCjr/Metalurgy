@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "vpmm:items/diamond_tipped_iron_pickaxe"
+    }
+}

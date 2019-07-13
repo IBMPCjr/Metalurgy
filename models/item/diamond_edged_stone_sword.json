@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "vpmm:items/diamond_edged_stone_sword"
+    }
+}
